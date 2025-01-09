@@ -1,0 +1,16 @@
+langchain_openai
+langchain
+python-dotenv
+langchain_community
+langchain_core
+streamlit
+langchain-groq
+langchain-huggingface
+pypdf
+pymupdf
+unstructured
+pdfminer.six
+pillow
+pi_heif
+unstructured_inference
+faiss-cpu
